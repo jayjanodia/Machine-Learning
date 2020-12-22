@@ -10,7 +10,7 @@
 
 > Substitute the cost function into the gradient descent algorithm.
 >
-> The reason we can use this gradient descent on the linear regression model is, the gradient descent gives you the local optimum of the cost function 3D graph. ![cost function 3D graph](https://miro.medium.com/max/1406/1*t4aYsxpCqz2eymJ4zkUS9Q.png) However, the cost function of Linear Regression has only one optimum. That is, the local optimum and the global optimum are the same. ![Cost function linear regression](![cost function 3D graph](https://miro.medium.com/max/1460/1*JNOVaxLlNZk-4KyEKQsrQA.png))
+> The reason we can use this gradient descent on the linear regression model is, the gradient descent gives you the local optimum of the cost function 3D graph. ![cost function 3D graph](https://miro.medium.com/max/1406/1*t4aYsxpCqz2eymJ4zkUS9Q.png) However, the cost function of Linear Regression has only one optimum. That is, the local optimum and the global optimum are the same. ![cost function 3D graph](https://miro.medium.com/max/1460/1*JNOVaxLlNZk-4KyEKQsrQA.png))
 
 ## Batch Gradient Descent
 
