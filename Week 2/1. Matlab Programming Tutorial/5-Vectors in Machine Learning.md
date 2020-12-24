@@ -43,11 +43,11 @@ https://www.youtube.com/watch?v=8D04GW_foQ0&feature=youtu.be
 
 > Without Vector Calculation
 >
-> ![Without Vector Calculation](Without Vector Calculation.png)
+> ![Without Vector Calculation](images/Without Vector Calculation.png)
 
 > With Vector Calculation
 >
-> ![With Vector Calculation](With Vector Calculation.png)
+> ![With Vector Calculation](images/With Vector Calculation.png)
 
 ## Vector Transpose
 
