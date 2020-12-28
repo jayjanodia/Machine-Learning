@@ -18,7 +18,7 @@ Logical Operators:
 ~: not
 
 ## If-Else statement
-![if-else](images/If_Else.jpg)
+![if-else](images/If_Else.png)
 
 # For Loop
 Printing values from 0 to 100
