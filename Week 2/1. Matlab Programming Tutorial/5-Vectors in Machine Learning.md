@@ -41,12 +41,10 @@ https://www.youtube.com/watch?v=8D04GW_foQ0&feature=youtu.be
 - So the equation ![f(x) = 3x^2 + 2x + 6](https://latex.codecogs.com/gif.latex?f%28x%29%20%3D%203x%5E2%20&plus;%202x%20&plus;%206) and the value of x = -2:0.1:2; would give 
 > y = 3*x.^2 + 2*x - 6;
 
-> Without Vector Calculation
->
+## Without Vector Calculation
 > ![Without Vector Calculation](images/Without_Vector_Calculation.png)
 
-> With Vector Calculation
->
+## With Vector Calculation
 > ![With Vector Calculation](images/With_Vector_Calculation.png)
 
 ## Vector Transpose
