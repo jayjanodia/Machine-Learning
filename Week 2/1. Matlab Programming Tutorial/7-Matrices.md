@@ -39,7 +39,7 @@ Diagonal Matrix
 
 List of functions for creating large matrices are:
 
-![creating matrices](Creating_Matrices.png)
+![creating matrices](images/Creating_Matrices.png)
 
 > Commands rand, ones, zeros can take 2 parameters, for getting rectangular matrices
 
